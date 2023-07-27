@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">beautySL</string>
+    <!-- link for home text view-->
+    <string name="hyperlink"><a href="https://www.guestreservations.com/sigiriya-village/booking?msclkid=ad19c6d2584717962126a5119223e42a">Hottel Sigiriya</a></string>
+    <!-- link for practice textview-->
+    <string name="hyperlink2"><a href="https://www.tripadvisor.com/Hotel_Review-g608524-d21002799-Reviews-Araliya_Red-Nuwara_Eliya_Central_Province.html">Araliya Red</a></string>
+    <!-- link for practice textview-->
+    <string name="hyperlink3"><a href="https://www.tripadvisor.com/SmartDeals-g616035-Ella_Uva_Province-Hotel-Deals.html">EKHO Ella</a></string>
+    <string name="title_activity_sinharaj">Sinharaj</string>
+
+    <!-- link for practice textview-->
+    <string name="hyperlink4"><a href="https://www.tripadvisor.com/Hotel_Review-g304135-d8846627-Reviews-Tulasi_Mahal_ApartHotel-Jaffna_Northern_Province.html">Araliya Red</a></string>
+
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
